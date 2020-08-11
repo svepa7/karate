@@ -46,3 +46,4 @@ public interface Mouse {
     Mouse duration(Integer duration);
     
 }
+

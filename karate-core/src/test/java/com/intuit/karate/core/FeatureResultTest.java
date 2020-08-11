@@ -98,3 +98,4 @@ public class FeatureResultTest {
         assertTrue(contents.contains("And assert a != 4 ......................................................... passed"));
     }
 }
+

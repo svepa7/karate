@@ -41,3 +41,4 @@ public enum AssignType {
     BYTE_ARRAY
     
 }
+

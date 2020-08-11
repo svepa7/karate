@@ -179,3 +179,4 @@ public class CliExecutionHook implements ExecutionHook {
     private static final String TEMPLATE_TEST_SUITE_FINISHED = TEAMCITY_PREFIX + "[testSuiteFinished timestamp = '%s' name = '%s']";
 
 }
+

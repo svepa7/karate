@@ -9,3 +9,4 @@ import demo.TestBase;
 public class CallOnceRunner extends TestBase {
     
 }
+

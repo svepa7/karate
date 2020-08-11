@@ -19,3 +19,4 @@ public class NullValidator implements Validator {
     public static final NullValidator INSTANCE = new NullValidator();
     
 }
+

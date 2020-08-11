@@ -11,3 +11,4 @@ public interface Validator {
     ValidationResult validate(ScriptValue value);    
     
 }
+

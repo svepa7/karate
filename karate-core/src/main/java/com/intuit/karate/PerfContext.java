@@ -32,3 +32,4 @@ public interface PerfContext {
     void capturePerfEvent(String name, long startTime, long endTime);
     
 }
+

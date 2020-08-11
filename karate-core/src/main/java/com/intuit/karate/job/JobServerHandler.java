@@ -143,3 +143,4 @@ public abstract class JobServerHandler extends SimpleChannelInboundHandler<FullH
     protected abstract JobMessage handle(JobMessage request);
 
 }
+

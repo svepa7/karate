@@ -20,3 +20,4 @@ public class BooleanValidator implements Validator {
     public static final BooleanValidator INSTANCE = new BooleanValidator();
   
 }
+

@@ -16,3 +16,4 @@ public class ObjectValidator implements Validator {
     public static final ObjectValidator INSTANCE = new ObjectValidator();
 
 }
+

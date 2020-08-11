@@ -38,3 +38,4 @@ public interface HttpLogModifier {
     String response(String uri, String response);
     
 }
+
