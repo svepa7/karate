@@ -38,3 +38,4 @@ public class KarateException extends RuntimeException {
     }
     
 }
+

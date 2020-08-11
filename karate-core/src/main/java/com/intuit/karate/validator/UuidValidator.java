@@ -26,3 +26,4 @@ public class UuidValidator implements Validator {
     public static final UuidValidator INSTANCE = new UuidValidator();
     
 }
+

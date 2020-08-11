@@ -23,3 +23,4 @@ public class NumberValidator implements Validator {
     public static final NumberValidator INSTANCE = new NumberValidator();
   
 }
+

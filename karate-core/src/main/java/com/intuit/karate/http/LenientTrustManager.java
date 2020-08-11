@@ -73,3 +73,4 @@ public class LenientTrustManager extends X509ExtendedTrustManager {
     }
     
 }
+

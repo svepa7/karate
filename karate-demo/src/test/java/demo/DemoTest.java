@@ -13,3 +13,4 @@ public class DemoTest extends TestBase {
     // even though the class name ends with 'Test', the maven 'pom.xml'
     // has set 'DemoTestParallel' to be the default 'test suite' for the whole project
 }
+

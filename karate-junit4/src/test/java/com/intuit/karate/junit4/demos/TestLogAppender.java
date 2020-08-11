@@ -48,3 +48,4 @@ public class TestLogAppender extends AppenderBase<ILoggingEvent> {
     }
 
 }
+

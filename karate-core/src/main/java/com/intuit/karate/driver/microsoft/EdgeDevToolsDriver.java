@@ -90,3 +90,4 @@ public class EdgeDevToolsDriver extends DevToolsDriver {
         }
     }
 }
+

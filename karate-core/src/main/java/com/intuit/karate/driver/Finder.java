@@ -52,3 +52,4 @@ public interface Finder {
     Element retry(Integer count, Integer interval);
 
 }
+

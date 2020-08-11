@@ -11,3 +11,4 @@ import demo.TestBase;
 public class CallUpdatesConfigRunner extends TestBase {
     
 }
+

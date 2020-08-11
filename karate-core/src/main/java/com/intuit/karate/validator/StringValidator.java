@@ -20,3 +20,4 @@ public class StringValidator implements Validator {
     public static final StringValidator INSTANCE = new StringValidator();
   
 }
+

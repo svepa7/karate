@@ -16,3 +16,4 @@ public class ArrayValidator implements Validator {
     public static final ArrayValidator INSTANCE = new ArrayValidator();
 
 }
+

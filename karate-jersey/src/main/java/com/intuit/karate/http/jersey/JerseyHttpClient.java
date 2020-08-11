@@ -247,3 +247,4 @@ public class JerseyHttpClient extends HttpClient<Entity> {
     }
 
 }
+
